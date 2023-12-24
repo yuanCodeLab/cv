@@ -1,16 +1,16 @@
 ---
 layout: cv
-title: yuan
+title: coder
 email:
-  url: mailto:yuan@gmail.com
-  text: yuan@gmail.com
+  url: mailto:huchuncheng@gmail.com
+  text: huchuncheng@gmail.com
 homepage:
-  url: https://github.com/yuanCodeLab
-  text: yuanCodeLab
-phone: 18920000421
+  url: https://github.com/javaCodeLab
+  text: JavaCodeLab
+phone: 18927470422
 ---
 
-# yuan
+# Yuan
 
 <!--
 include contact information from the front matter
@@ -27,9 +27,9 @@ Supported arguments:
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
 
 _基础平台 - 高级软件工程师、研发经理、架构师_<br>
-负责基础平台的技术选型与开发，主导研发的平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、调度、协议、单点登入权限、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot Alibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix等。
-调研过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、JavaAssist）等。
-
+负责基础平台的技术选型与开发，主导研发的平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、开放平台、调度、监控、协议、消息通知、单点登入、权限模块、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot Alibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix等。
+调研过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
+带过10+人的团队。
 ### **平安科技** `2014.3 - 2015.4`
 
 _产险项目组 软件工程师_<br>
@@ -44,91 +44,61 @@ _技术中心ERP项目组 软件工程师_<br>
 ### **中科天翔（杭州）科技有限公司** `2009.2 - 2010.4`
 
 _技术部 软件工程师_<br>
-参与财政行业应用软件产品的研发。
+参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
 
 ## 技能
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+### 基础知识
+- 熟练掌握Java，多线程，网络等基础知识，掌握JVM调优
+- 熟练掌握框架Spring全家桶、SpringBoot Alibaba全家桶、Mybatis、Mybatis-Plus
+- 熟练掌握工作流框架Activiti、Camunda，调度框架Quartz
+- 掌握中间件Redis、RabbitMq、Minio
+- 系统读过源码，包括Spring、SpringMvc、Mybatis、Dubbo、Zookeeper、Tomcat等
+- 掌握Nginx、Docker、K8s
+- 掌握Oracle、Mysql数据库的开发和Sql调优
+- 掌握Html、JavaScript、Css、Jquery、Extjs、AngularJs开发，阅读过基于Vue框架的代码，能参与前端技术讨论
 
+- 掌握字节码开发，掌握代码混淆
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### 架构设计与需求分析
+- 擅长分析需求与设计系统，能基于需求选择合适的技术方案
+- 能独立带领团队开发技术平台和项目
+- 擅长基于开源框架和开源项目进行定制化开发
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
+### 工具
+- 掌握工具Idea、Eclipse、Maven、Git、Xshell、Arthas、Axure等
 
 
 ## 项目经验
 
-[Yiliang "Leo" Liang](https://www.linkedin.com/in/yiliang-liang-a3631a138/) (University of Michigan) `CMU, 2022 - Now` <br>
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
+### 工作流平台 `2023 - 现在` <br>
+- 后端框架基于SpringBoot、Camunda、Dubbo、Mybatis、Mybatis-Plus，前端框架基于Vue2.0
+- 一个通用的可独立可嵌入部署的工作流平台，支持中国式工作流，支持微服务架构，支持与其他系统模块快速对接
+- 负责需求、产品设计、技术选型、核心功能设计开发，带领团队技术问题公关， 把握项目研发进度
+- 目前已在客户方部署联调，已支持客户80+金融业务流程，计划明年1月正式上线
+
+### 快速开发平台 `2019 - 2021` <br>
+- 采用前后端分离架构，其中前端主要是基于vue框架，结合公司金融业务，进行扩展和封装，使之更适配公司业务，并且支持在线设计页面，可实现在页面拖拽生成页面；后端框架主要是基于Spring，对常用的中间件进行了封装，并且封装了数据访问层;
+- 已将系统中常用业务模块包装成组件，新对接的系统，可以随意组装，目前已封装的组件比如流程引擎平台、单点登入、导入导出、大表归档、对账、操作日志、系统监控、轻量级调度、监控预警平台等，这些组件可独立运行，也可集成到新系统中;
+- 负责需求、产品设计、框架设计、核心功能设计开发，带领团队技术问题公关，把握项目研发进度;
+- 目前已支撑公司所有部署在客户方的信托管理系统，已部署的系统20+，例如，在19年11月底，一个评估100人天左右的仓管项目，在基于快速开发平台开发后，缩短为实际只花30人天左右的工作量，并且在12.26号上线稳定运行。在可靠性、可伸缩性、可移植性和可用性上面得到了实际的检验 。
 
 ---
 
-## 解决方案 & 源码
+## 解决方案 
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+- 工作流
+- 调度
+- 权限
+- 单点登入
+- 部署平台
+- 协议
+- 消息通知
+- 网关
+- 开放平台
+- 系统集成
 
-## 开源项目 & Blog
+## 开源项目
 
 Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
 Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
@@ -155,4 +125,4 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2023 -->
