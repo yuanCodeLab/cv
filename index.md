@@ -2,15 +2,15 @@
 layout: cv
 title: coder
 email:
-  url: mailto:huchuncheng@gmail.com
-  text: huchuncheng@gmail.com
+  url: mailto:yuancodelab@gmail.com
+  text: yuancodelab@gmail.com
 homepage:
   url: https://github.com/javaCodeLab
   text: JavaCodeLab
 phone: 18927470422
 ---
 
-# 胡春成
+# 元
 
 <!--
 include contact information from the front matter
@@ -87,7 +87,7 @@ AngularJs开发，阅读过基于Vue框架的代码，
 
 ---
 
-## 解决方案 
+## 拥有解决方案的领域 
 
 - 工作流
 - 调度
@@ -101,6 +101,7 @@ AngularJs开发，阅读过基于Vue框架的代码，
 - 系统集成
 - 规则引擎
 - 监控
+- BI报表
 
 
 ## 教育
