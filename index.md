@@ -45,11 +45,11 @@ _技术部 - 软件工程师_<br>
 ## 技能
 
 ### 基础知识
-- 熟练掌握Java，多线程，网络等基础知识，掌握JVM调优
-- 熟练掌握框架Spring全家桶、SpringBoot Alibaba全家桶、Mybatis、Mybatis-Plus
+- 熟练掌握Java多线程、网络等基础知识，掌握JVM调优、JVM内存模型、类加载机制
+- 熟练掌握框架Spring全家桶、SpringBoot、SpringCloudAlibaba全家桶、Dubbo、Mybatis、Mybatis-Plus
 - 熟练掌握工作流框架Activiti、Camunda，调度框架Quartz
 - 掌握中间件Redis、RabbitMq、Minio
-- 系统读过源码，包括Spring、SpringMvc、Mybatis、Dubbo、Zookeeper、Tomcat等
+- 系统读过源码，包括Spring、SpringMvc、Mybatis、Dubbo、Zookeeper、Tomcat等，有一些心得体会
 - 掌握Nginx、Docker、K8s
 - 掌握Oracle、Mysql数据库的开发和Sql调优
 - 掌握Html、JavaScript、Css、Jquery、Extjs、
