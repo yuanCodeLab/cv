@@ -31,11 +31,6 @@ _基础平台 - 高级软件工程师、研发经理、架构师_<br>
 调研过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领10+团队3年以上。
 
-### **平安科技** `2014.3 - 2015.4`
-
-_产险项目组 - 软件工程师_<br>
-主要参与车险合作伙伴项目的开发。在此期间，主要学习并掌握了Oracle存储过程开发，Oracle亿级数据调优，AngularJs前端开发等。接触了敏捷开发模式。
-
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3`
 
