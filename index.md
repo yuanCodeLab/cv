@@ -27,7 +27,7 @@ Supported arguments:
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
 
 _基础平台 - 高级软件工程师、研发经理、架构师_<br>
-负责基础平台的技术选型与开发，主导研发的平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、开放平台、调度、监控、协议、消息通知、单点登入、权限模块、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot Alibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix等。
+负责基础平台的技术选型与开发，主导研发的平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、开放平台、调度、监控、协议、消息通知、单点登入、权限模块、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 调研过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领10+团队3年以上。
 
