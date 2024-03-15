@@ -22,12 +22,35 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## 专业技能
+
+- 深入理解jvm的底层原理，熟悉各种jvm垃圾回收器的使用以及核心参数的调优，有过一定的线上调优经验
+- 深入理解Spring、SpringMvc、Mybatis、Dubbo、Tomcat等开源框架中间件的设计原理及底层架构，研究过部分核心源码，具备一定的框架定制能力
+- 深入理解工作流框架Activiti、Camunda，调度框架Quartz、企业级调度QuartzDesk，并有基于这些引擎框架进行业务适配扩展的经验
+- 深入理解redis线程模型，熟练掌握redis核心数据结构的应用场景，熟悉多级缓存架构，熟悉各种缓存高并发的使用场景，比如缓存雪崩、缓存穿透、缓存失效、热点缓存重建
+- 熟悉常见消息中间件的使用，解决过各种消息通信场景的疑难问题，例如消息丢失，消息顺序消费、消息积压等
+- 对于高性能的IO通信模型以及相关开源组件有过深入的研究，熟悉百万级并发服务器架构设计
+- 项目中解决过各种分布式场景的技术难题，例如分布式锁、分布式session、分库分表、分布式数据库jion查询等
+- 熟练掌握Oracle、Mysql数据库的开发、索引设计和Sql调优
+- 掌握Nginx、Docker、K8s
+- 掌握Html、JavaScript、Css、Jquery、Extjs、AngularJs开发，阅读过基于Vue框架的代码，能参与前端技术方案讨论
+- 掌握字节码开发，掌握代码混淆技术
+
+### 架构设计与需求分析
+- 擅长分析需求与设计系统，能基于需求选择合适的技术方案
+- 能独立带领团队开发技术平台和项目
+- 擅长基于开源框架和开源项目进行定制化开发
+
+### 工具
+- 掌握工具Idea、Eclipse、Maven、Git、Markdown、Xshell、Arthas、Axure等
+
+
 
 ## 工作经历
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
 
 _基础平台 - 高级软件工程师、研发经理、架构师_<br>
-负责基础平台的技术选型与开发，主导研发的平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、开放平台、调度、监控、协议、消息通知、单点登入、权限模块、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
+负责基础平台的技术选型与开发，主导研发框架平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、开放平台、调度、监控、协议、消息通知、单点登入、权限模块、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 调研过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领10+团队3年以上。
 
@@ -41,29 +64,6 @@ _技术中心ERP项目组 - 软件工程师_<br>
 
 _技术部 - 软件工程师_<br>
 参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
-
-## 技能
-
-### 基础知识
-- 熟练掌握Java数据结构、多线程、网络等基础知识，掌握JVM调优、JVM内存模型、类加载机制等
-- 熟练掌握框架Spring、SpringBoot、SpringCloudAlibaba全家桶、Dubbo、Mybatis、Mybatis-Plus、SpringCloudStream
-- 熟练掌握工作流框架Activiti、Camunda，调度框架Quartz、企业级调度QuartzDesk
-- 掌握中间件Redis、RabbitMq、Kafka、Minio
-- 系统读过源码，包括Spring、SpringMvc、Mybatis、Dubbo、Zookeeper、Tomcat等，有一些心得体会
-- 掌握Nginx、Docker、K8s
-- 掌握Oracle、Mysql数据库的开发、索引设计和Sql调优
-- 掌握Html、JavaScript、Css、Jquery、Extjs、
-AngularJs开发，阅读过基于Vue框架的代码，
-能参与前端技术方案讨论
-- 掌握字节码开发，掌握代码混淆技术
-
-### 架构设计与需求分析
-- 擅长分析需求与设计系统，能基于需求选择合适的技术方案
-- 能独立带领团队开发技术平台和项目
-- 擅长基于开源框架和开源项目进行定制化开发
-
-### 工具
-- 掌握工具Idea、Eclipse、Maven、Git、Markdown、Xshell、Arthas、Axure等
 
 
 ## 项目经验
@@ -87,7 +87,7 @@ AngularJs开发，阅读过基于Vue框架的代码，
 - 负责需求、产品设计、框架设计、核心功能设计开发，带领团队技术问题公关，把握项目研发进度
   
 *项目业绩：* 
-- 目前已支撑公司所有对外出售的系统，已部署的系统30+
+- 目前已支撑公司所有对外部署的系统，已部署的系统30+
 - 提高开发效率，一个评估100人天左右的仓管项目，在基于快速开发平台开发后，缩短为实际30人天左右的工作量
 
 
