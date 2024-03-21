@@ -23,7 +23,7 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## 专业技能
-- 基础知识扎实，研究过部分jdk源码，例如线程创建、线程池、volatile、AQS、CurrentHashMap等
+- 基础知识扎实，研究过部分jdk源码，例如jvm启动执行mian方法、线程创建、线程池、volatile、AQS、CurrentHashMap等
 - 深入理解jvm的底层原理，熟悉各种jvm垃圾回收器的使用以及核心参数的调优，有过一定的线上调优经验
 - 深入理解Spring、SpringMvc、Mybatis、Dubbo、Tomcat等开源框架中间件的设计原理及底层架构，研究过部分核心源码，具备一定的框架定制能力
 - 深入理解工作流框架Activiti、Camunda，调度框架Quartz、企业级调度QuartzDesk，并有基于这些引擎框架进行业务适配扩展的经验
