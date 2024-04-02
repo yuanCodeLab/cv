@@ -44,6 +44,8 @@ Supported arguments:
 
 
 ## 工作经历
+<br>
+
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
 <br>
 
@@ -52,7 +54,7 @@ Supported arguments:
 负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领10+团队4年以上。在公司曾开发过的项目拿到国家专利。
-
+<br>
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3` 
 <br>
@@ -60,6 +62,8 @@ Supported arguments:
 部门：_技术中心ERP项目组_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_部门经理_  <br><br>
 
 主要参与比亚迪集团ERP系统的二次开发。技能提升，框架包括Spring全家桶、Hibernate、Mybatis，数据库主要掌握Oracle Sql的语法规则，前端掌握Html、JavaScript、CSS、Jquery、EasyUI、ExtJs等前端技术与框架。除了技术能力提升之外，提升了和集团各部门需求对接与分析的能力。
+
+<br>
 
 ### **中科天翔（杭州）科技有限公司** `2009.2 - 2010.4`
 <br>
@@ -70,9 +74,9 @@ Supported arguments:
 
 
 ## 项目经验
+<br>
 
-
-### 信托综合管理平台  <br>
+### **信托综合管理平台**  <br>
 - 该系统为金融信托领域的业务综合管理平台，由统一登入、流程引擎、权限、调度、账户、产品、持仓、合同协议、计费、报表、大表归档、对账、操作日志、系统监控等模块构成
 - 前后端分离架构，后端采用基于SpringBoot+Dubbo+Redis+RabbitMQ的分布式微服务架构，前端采用基于Vue的微前端架构，各模块相互独立，可横向扩展可独立部署
 
@@ -90,7 +94,9 @@ Supported arguments:
  - 扩展流程引擎Camunda、调度引擎Quartz、规则引擎Drools，适配业务进行表结构扩展和底层功能的扩展
  - 制定项目计划，安排开发任务，把握项目开发进度
 
-### 金融商城秒杀系统 <br>
+<br>
+
+### **金融商城秒杀系统** <br>
 - 支撑公司商城的秒杀活动
 - 前后端分离架构，后端采用SpringBoot+Dubbo+Redis+RabbitMQ的分布式微服务架构
 - 采用RabbitMQ进行消峰，各模块的异步处理，消息通知等
@@ -109,6 +115,7 @@ Supported arguments:
 
 ## 架构经验   
 
+<br>
 
 ### 分布式系统架构  <br>
 - 分布式系统基于dubbo划分为商品线、交易线、资金线、用户线、支付线构成的互联网金融系统架构，dubbo配置关闭启动时检查、服务分组、多版本、延迟暴露等。基于dubbo如何做服务治理、服务降级以及重试
@@ -119,6 +126,7 @@ Supported arguments:
 - 分布式session使用redis+session实现共享
 - 采用Redisson实现的分布式锁方案解决分布式并发需要加锁的场景
 
+<br>
 
 ### 高并发系统架构  <br>
 - SLB+Openresty分散压力，优化并发连接数
@@ -127,6 +135,8 @@ Supported arguments:
 - 会员端小程序接口采用本地内存+Redis多级缓存保存热点数据
 - 个人中心、交易中心采用RabbitMQ对低耦合业务进行异步处理
 - 对热点数据预处理
+  
+<br>
 
 ### 高可用架构  <br>
 - 各业务模块多点布署保证高可用
@@ -138,6 +148,7 @@ Supported arguments:
 - Prometheus+Grafana自动化检测实时报警
 - 核心接口异常和数据对比异常，发短信及时报警通知
 
+<br>
 
 ### 高性能架构  <br>
 - 采用构造器模式构建活动商品，采用状态模式进行商品的上下架，采用原型模式构商品VO转换
@@ -146,16 +157,19 @@ Supported arguments:
 - 基于AOP机制进行异常的捕获，通过错误码的方式返回，便于快速定位解决问题
 - 基于Nacos配置做新旧代码开关控制，线上发布无需回滚，直接更改配置即可
 
-
+<br>
 
 ## 问题解决经验
 
+<br>
 
 ### 解决会员端接口请求缓慢，带宽占比高，代码维护性差的问题
 - 工程业务功能拆分，分别集群部署，提高单机的性能
 - 建立本地缓存，所有会员端接口走本地内存方式
 - 精简接口返回字段，不需要的字段不返回
 - 重构代码，实现高聚合低耦合的原则
+
+<br>
 
 ### 解决Mysql主库CPU使用率达到60%
 - 对历史数据进行归档
@@ -165,12 +179,16 @@ Supported arguments:
 - 索引优化，减少没必要的索引
 - 经过优化，主库CPU使用率降低到10%
 
+<br>
+
 ### 优化慢查询sql,解决MySQL读库CPU使用率100%停止服务问题
 - 优化导出实现方式，限制导出最大数目，限制最大导入数目
 - 优化时间段过滤查询方式，走更好的索引
 - 不写联合查询表的sql,进来单表查询，逻辑处理在内存中进行处理
 - 重构代码，减少不必要的查询
 - 增加大表归档功能，对超过一定周期的数据及时归档
+
+<br>
 
 ### 优化频繁的FullGC
 - 通过Authas排查占用老年代的对象，根据jvm垃圾回收算法，综合判断FullGC的原因
