@@ -5,8 +5,7 @@ email:
   url: mailto:yuancodelab@gmail.com
   text: yuancodelab@gmail.com
 homepage:
-  url: https://github.com/javaCodeLab
-  text: JavaCodeLab
+VX: 18927470422
 phone: 18927470422
 ---
 
@@ -46,8 +45,9 @@ Supported arguments:
 
 ## 工作经历
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
+<br>
 
-部门：_技术中心基础平台_ &emsp; &emsp; 职位：_研发经理、架构师_    &emsp; &emsp; 汇报对象：_技术总监_  <br>
+部门：_技术中心基础平台_ &emsp; &emsp; 职位：_研发经理、架构师_    &emsp; &emsp; 汇报对象：_技术总监_  <br><br>
 
 负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
@@ -55,14 +55,16 @@ Supported arguments:
 
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3`
+<br>
 
-部门：_技术中心ERP项目组_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_部门经理_  <br>
+部门：_技术中心ERP项目组_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_部门经理_  <br><br>
 
 主要参与比亚迪集团ERP系统的二次开发。技能提升，框架包括Spring全家桶、Hibernate、Mybatis，数据库主要掌握Oracle Sql的语法规则，前端掌握Html、JavaScript、CSS、Jquery、EasyUI、ExtJs等前端技术与框架。除了技术能力提升之外，提升了和集团各部门需求对接与分析的能力。
 
 ### **中科天翔（杭州）科技有限公司** `2009.2 - 2010.4`
+<br>
 
-部门：_研发一部_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_技术主管_  <br>
+部门：_研发一部_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_技术主管_  <br><br>
 
 实习单位，同时也是参加工作的第一家公司，参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
 
@@ -106,7 +108,7 @@ Supported arguments:
 
 
 ## 架构经验         
- ### 分布式系统架构
+ ### 分布式系统架构  <br>
 - 分布式系统基于dubbo划分为商品线、交易线、资金线、用户线、支付线构成的互联网金融系统架构，dubbo配置关闭启动时检查、服务分组、多版本、延迟暴露等。基于dubbo如何做服务治理、服务降级以及重试
 - 配置中心使用Nacos，注册中心采用zookeeper或者Nacos实现
 - 基于Pinpoint进行链路追踪和异常告警
@@ -116,7 +118,7 @@ Supported arguments:
 - 采用Redisson实现的分布式锁方案解决分布式并发需要加锁的场景
 
 
- ### 高并发系统架构
+ ### 高并发系统架构  <br>
 - SLB+Openresty分散压力，优化并发连接数
 - Tomcat采用非阻塞协议Http11Nio2Protocol，启用压缩，优化并发连接数，JVM优化
 - 用户中心、交易中心采用Mysql+ShardingJdbc+SLB进行分库分表，读写分离
@@ -124,7 +126,7 @@ Supported arguments:
 - 个人中心、交易中心采用RabbitMQ对低耦合业务进行异步处理
 - 对热点数据预处理
 
- ### 高可用架构
+ ### 高可用架构  <br>
 - 各业务模块多点布署保证高可用
 - 会员端小程序接口采用Sentinal对异常流量进行熔断降级和监控
 - 用户信息、渠道信息等采用Redis+Ehcache多级缓存
@@ -135,7 +137,7 @@ Supported arguments:
 - 核心接口异常和数据对比异常，发短信及时报警通知
 
 
- ### 高性能架构
+ ### 高性能架构  <br>
 - 采用构造器模式构建活动商品，采用状态模式进行商品的上下架，采用原型模式构商品VO转换
 - 采用分布式定时任务轮巡保证数据强一致性
 - 采用职责单一，层极分明，高聚合低耦合的原则设计代码结构
