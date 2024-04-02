@@ -22,8 +22,11 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## 自我评价
+ 拥有14年的JAVA研发经验，其中5年的大型互联网金融系统架构设计经验，以及4年的团队管理经验，具有分布式、高并发、高可用、大数据量的系统架构设计和研发经验。目前负责公司整体研发平台和研发技术体系的建设，曾负责注册用户5千万、万亿级流水、高峰期近10万并发的金融后台系统架构设计和研发。同时技术功底扎实，研究过openjdk、spring、mybatis、redis、tomcat等开源技术和框架的部分源码，有一定的框架定制开发能力。
+
 ## 专业技能
-- 基础知识扎实，研究过部分jdk源码，例如jvm启动执行mian方法、线程创建、线程池、volatile、AQS、CurrentHashMap等
+- 基础知识扎实，研究过部分openjdk 和java sdk源码，例如jvm启动执行mian方法、线程创建、线程池、volatile、AQS、CurrentHashMap等
 - 深入理解jvm的底层原理，熟悉各种jvm垃圾回收器的使用以及核心参数的调优，有过一定的线上调优经验
 - 深入理解Spring、SpringMvc、Mybatis、Dubbo、Tomcat等开源框架中间件的设计原理及底层架构，研究过部分核心源码，具备一定的框架定制能力
 - 深入理解工作流框架Activiti、Camunda，调度框架Quartz、企业级调度QuartzDesk，并有基于这些引擎框架进行业务适配扩展的经验
@@ -31,28 +34,28 @@ Supported arguments:
 - 熟悉常见消息中间件的使用，解决过各种消息通信场景的疑难问题，例如消息丢失，消息顺序消费、消息积压等
 - 对于高性能的IO通信模型以及相关开源组件有过深入的研究，熟悉百万级并发服务器架构设计
 - 项目中解决过各种分布式场景的技术难题，例如分布式锁、分布式session、分库分表、分布式数据库jion查询等
-- 熟练掌握Oracle、Mysql数据库的开发、索引设计和Sql调优
-- 掌握Nginx、Docker、K8s
-- 掌握Html、JavaScript、Css、Jquery、Extjs、AngularJs开发，阅读过基于Vue框架的代码，能参与前端技术方案讨论
+- 熟练掌握Mysql数据库的开发、索引设计和Sql调优
+- 熟练使用Nginx、Openresty、Zookeeper等负载均衡组件
 - 掌握字节码开发，掌握代码混淆技术
+- 自动化布署：Git、Jenkins、Gradle、Maven
+- 建模工具：PowerDesigner、Visio等UML建模工具
+- 掌握Html、JavaScript、Css、Jquery、Extjs、AngularJs开发，阅读过基于Vue框架的代码，能参与前端技术方案讨论
+
 
 ### 架构设计与需求分析
 - 擅长分析需求与设计系统，能基于需求选择合适的技术方案
 - 能独立带领团队开发技术平台和项目
 - 擅长基于开源框架和开源项目进行定制化开发
 
-### 工具
-- 掌握工具Idea、Eclipse、Maven、Git、Markdown、Xshell、Arthas、Axure等
-
 
 
 ## 工作经历
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
 
-_基础平台 - 高级软件工程师、研发经理、架构师_<br>
-负责基础平台的技术选型与开发，主导研发框架平台与系统，包括快速开发平台、工作流平台、日志平台、运营平台、开放平台、调度、监控、协议、消息通知、单点登入、权限模块、大数据报表查询、自动部署平台等。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
-调研过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
-带过团队开发项目，其中带领10+团队3年以上。
+_基础平台 - 高级软件工程师、研发经理、架构师_  汇报对象：技术总监<br>
+负责公司的技术选型与研发，主导整体平台和核心系统的架构和设计。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
+研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
+带过团队开发项目，其中带领10+团队4年以上。
 
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3`
@@ -63,7 +66,7 @@ _技术中心ERP项目组 - 软件工程师_<br>
 ### **中科天翔（杭州）科技有限公司** `2009.2 - 2010.4`
 
 _技术部 - 软件工程师_<br>
-参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
+实习单位，同时也是参加工作后的第一家公司，参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
 
 
 ## 项目经验
@@ -134,23 +137,7 @@ _技术部 - 软件工程师_<br>
 
 ## 分布式架构经验         
 
-| 拥有解决方案的领域 | |  接触过的领域 |
-|:---------:|-|:-------:|
-|    工作流    | |   协议    |
-|    调度     | |   对账    |
-|    权限     | |  收银台订单  |
-|   单点登入    | |   会员    |
-|  自动部署平台   | |   资金    |
-|   消息通知    | |   交易    |
-|    网关     | |   计费    |
-|   开放平台    | |   会计    |
-|  异构系统集成   | |  信托柜台   |
-|   规则引擎    | |  资金预付   |
-|   监控预警    | |  家族信托   |
-|    门户     | |   清结算   |
-|   BI报表    | |  薪酬风险金  |
-|   大数据查询   | |         |
- 
+
 
 ## 教育
 
