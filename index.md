@@ -37,7 +37,7 @@ Supported arguments:
 - 熟练掌握Mysql数据库的开发、索引设计和Sql调优
 - 熟练使用Nginx、Openresty、Zookeeper等负载均衡组件
 - 掌握字节码开发，掌握代码混淆技术
-- 自动化布署：Git、Jenkins、Gradle、Maven
+- 自动化部署：Git、Jenkins、Gradle、Maven
 - 建模工具：PowerDesigner、Visio等UML建模工具
 - 掌握Html、JavaScript、Css、Jquery、Extjs、AngularJs开发，阅读过基于Vue框架的代码，能参与前端技术方案讨论
 
@@ -52,28 +52,32 @@ Supported arguments:
 ## 工作经历
 ### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
 
-_基础平台 - 高级软件工程师、研发经理、架构师_  汇报对象：技术总监<br>
-负责公司的技术选型与研发，主导整体平台和核心系统的架构和设计。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
+部门：_技术中心基础平台_ &emsp; &emsp; 职位：_研发经理、架构师_    &emsp; &emsp; 汇报对象：_技术总监_  <br> <br>
+
+负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领10+团队4年以上。
 
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3`
 
-_技术中心ERP项目组 - 软件工程师_<br>
+部门：_技术中心ERP项目组_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_部门经理_  <br> <br>
+
 主要参与比亚迪集团ERP系统的二次开发。技能提升，框架包括Spring全家桶、Hibernate、Mybatis，数据库主要掌握Oracle Sql的语法规则，前端掌握Html、JavaScript、CSS、Jquery、EasyUI、ExtJs等前端技术与框架。除了技术能力提升之外，提升了和集团各部门需求对接与分析的能力。
 
 ### **中科天翔（杭州）科技有限公司** `2009.2 - 2010.4`
 
-_技术部 - 软件工程师_<br>
-实习单位，同时也是参加工作后的第一家公司，参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
+部门：_研发一部_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_技术主管_  <br> <br>
+
+实习单位，同时也是参加工作的第一家公司，参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
 
 
 ## 项目经验
 
 
-### 工作流平台 `2023 - 现在` <br>
-- 后端框架基于SpringBoot、Camunda、Dubbo、Mybatis、Mybatis-Plus，前端框架基于Vue2.0
+### 信托综合管理平台  <br>
+- 该系统为金融信托领域的业务综合管理平台，由统一登入、流程引擎、权限、调度、账户、产品、持仓、合同协议、计费、报表、大表归档、对账、操作日志、系统监控等模块构成
+- 前后端分离架构，前后端采用常见的Springboot、
 - 一个通用的可独立可嵌入部署的工作流平台，支持中国式工作流，支持微服务架构，支持与其他系统模块快速对接
 - 负责需求、产品设计、技术选型、核心功能设计开发，带领团队技术问题公关， 把握项目研发进度
 
@@ -83,8 +87,9 @@ _技术部 - 软件工程师_<br>
  - 通过功能的设计，完美支持流程与业务的解耦，业务属性动态配置，可控制页面和字段权限级别
 
 
-### 快速开发平台 `2019 - 2021` <br>
-- 采用前后端分离架构，其中前端主要是基于vue框架，结合公司金融业务，进行扩展和封装，使之更适配公司业务，并且支持在线设计页面，可实现在页面拖拽生成页面；后端框架主要是基于Spring，对常用的中间件进行了封装，并且封装了数据访问层
+### 金融秒杀系统 <br>
+- 采用前后端分离架构，其中前端主要是基于vue框架，结合公司金融业务，进行扩展和封装，使之更适配公司业务，并且支持在线设计页面，可实现在页面拖拽生成页面；
+- 后端采用SpringBoot+Dubbo的微服务架构，
 - 已将系统中常用业务模块包装成组件，新对接的系统，可以随意组装，
   目前已封装的模块比如流程引擎、单点登入、导入导出、大表归档、对账、操作日志、系统监控、轻量级调度、监控预警平台等，这些模块可独立运行，也可集成到系统中
 - 负责需求、产品设计、框架设计、核心功能设计开发，带领团队技术问题公关，把握项目研发进度
@@ -135,7 +140,7 @@ _技术部 - 软件工程师_<br>
 - 通过界面，快速查找和修改配置，提高了开发和测试人员操作效率
 
 
-## 分布式架构经验         
+## 架构经验         
 
 
 
