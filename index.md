@@ -54,6 +54,7 @@ Supported arguments:
 负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领10+团队4年以上。在公司曾开发过的项目拿到国家专利。
+
 <br>
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3` 
