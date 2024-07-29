@@ -22,7 +22,7 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## 自我评价
- 拥有14年的JAVA研发经验，其中5年的大型互联网金融系统架构设计经验，以及4年的团队管理经验，具有分布式、高并发、高可用、大数据量的系统架构设计和研发经验。目前负责公司整体研发平台和研发技术体系的建设，曾负责注册用户5千万、万亿级流水、高峰期近10万并发的互联网金融后台系统架构设计和研发。同时技术功底扎实，研究过openjdk、spring、mybatis、redis、tomcat等开源技术和框架的部分源码，有一定的框架定制开发能力。
+ 拥有14年的JAVA研发经验，其中5年的大型互联网金融系统架构设计经验，4年面向B端中大型金融公司服务经验，以及6年的团队管理经验，具有分布式、高并发、高可用、大数据量的系统架构设计和研发经验。目前负责公司研发团队和研发技术体系的建设，曾负责注册用户5千万、万亿级流水、高峰期近10万并发的互联网金融后台系统架构设计和研发。同时技术功底扎实，研究过openjdk、spring、mybatis、redis、tomcat等开源技术和框架的部分源码，有一定的框架定制开发能力。
 
 
 ## 专业技能
@@ -51,10 +51,10 @@ Supported arguments:
 负责研发团队和研发体系的建设，基于公司现有规模和未来业务的规划，从实际需求角度出发，逐步扩充研发人员。优化针对研发部门的考勤，建立完善现有研发体系，提高研发质量和效率。梳理公司现有系统前后端的技术栈，输出技术栈的统一更新升级计划。
 基于现有用户规模和未来三年的增量预估，调整系统的架构。逐步完善公司现有的系统安全机制。
 
+<br>
+
 ### **深圳中顺易金融服务有限公司** `2015.9 - 2024.6`
-
 部门：_技术中心基础平台_ &emsp; &emsp; 职位：_研发经理、架构师_    &emsp; &emsp; 汇报对象：_技术总监_  <br><br>
-
 在该公司做过5年的SAAS系统，4年面向B端服务全国20家信托公司。负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
 带过团队开发项目，其中带领15+团队4年以上。在公司曾开发过的项目拿到国家专利。
@@ -62,17 +62,13 @@ Supported arguments:
 <br>
 
 ### **比亚迪汽车工业有限公司** `2010.10 - 2014.3` 
-
 部门：_技术中心ERP项目组_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_部门经理_  <br><br>
-
 主要参与比亚迪集团ERP系统的二次开发。技能提升，框架包括Spring全家桶、Hibernate、Mybatis，数据库主要掌握Oracle Sql的语法规则，前端掌握Html、JavaScript、CSS、Jquery、EasyUI、ExtJs等前端技术与框架。除了技术能力提升之外，提升了和集团各部门需求对接与分析的能力。
 
 <br>
 
 ### **中科天翔（杭州）科技有限公司** `2009.2 - 2010.4`
-
 部门：_研发一部_ &emsp; &emsp; 职位：_软件工程师_    &emsp; &emsp; 汇报对象：_技术主管_  <br><br>
-
 实习单位，同时也是参加工作的第一家公司，参与财政行业应用软件产品的研发。技能掌握，Java基础、Html、JavaScript、Css，框架包括Strusts、Hibernate，开始接触Oracle数据库的Sql编写，存储过程的调试。参与过客户现场需求调研与开发，异地封闭开发。
 
 
