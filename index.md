@@ -35,6 +35,7 @@ Supported arguments:
 - 对于高性能的IO通信模型以及相关开源组件有过深入的研究，熟悉百万级并发服务器架构设计
 - 项目中解决过各种分布式场景的技术难题，例如分布式锁、分布式session、分库分表、分布式数据库jion查询等
 - 熟练掌握Mysql数据库的开发、索引设计和Sql调优
+- 熟练掌握Python脚本语言开发
 - 熟练使用Nginx、Openresty、Zookeeper等负载均衡组件
 - 掌握字节码开发，掌握代码混淆技术
 - 自动化部署：Git、Jenkins、Gradle、Maven
@@ -45,14 +46,17 @@ Supported arguments:
 
 ## 工作经历
 
+### **深圳超级视觉有限公司** `2024.6 - 至今`
+部门：_研发部_ &emsp; &emsp; 职位：_技术总监_    &emsp; &emsp; 汇报对象：_总经理_  <br><br>
+负责研发团队和研发体系的建设，基于公司现有规模和未来业务的规划，从实际需求角度出发，逐步扩充研发人员。优化针对研发部门的考勤，建立完善现有研发体系，提高研发质量和效率。梳理前后端的技术栈，输出技术栈的统一更新升级计划。
 
-### **深圳中顺易金融服务有限公司** `2015.9 - 现在`
+### **深圳中顺易金融服务有限公司** `2015.9 - 2024.6`
 
 部门：_技术中心基础平台_ &emsp; &emsp; 职位：_研发经理、架构师_    &emsp; &emsp; 汇报对象：_技术总监_  <br><br>
 
-负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
+在该公司做过5年的SAAS系统，4年面向B端服务全国20家信托公司。负责公司的技术选型，主导研发平台和核心系统的架构设计与研发。引入框架与技术包括Activiti、Camunda、Quartz、Xxl-Job、Minio、Pinpoint、SpringBoot、SpringCloudAlibaba全家桶、Mybatis-Plus、ElasticSearch、Logstash、Kibana、Datax、Canal、Aspose、Cdp4j、Swagger、Druid、ApiSix、Prometheus、Grafana等。
 研究过的领域，包括数据交换（Camel、Spring Integration、Roma Connect、腾讯轻联），数据库（达梦、OceanBase），BI（FineBI、润乾、Tableau、CBoard、网易有数），许可证（TrueLicense、License3j），代码混淆（ProGuard、Allatori），字节码编程（Jclasslib、Javassist）等。
-带过团队开发项目，其中带领10+团队4年以上。在公司曾开发过的项目拿到国家专利。
+带过团队开发项目，其中带领15+团队4年以上。在公司曾开发过的项目拿到国家专利。
 
 <br>
 
