@@ -2,8 +2,8 @@
 layout: cv
 title: coder
 email:
-  url: mailto:yuancodelab@gmail.com
-  text: yuancodelab@gmail.com
+  url: mailto:524268418@qq.com
+  text: 524268418@qq.com
 homepage:
 VX: hcc0422
 phone: 18902836410
